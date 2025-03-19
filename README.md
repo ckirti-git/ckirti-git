@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Kirti Chaudhari! 👋  
 
-<!--
-**ckirti-git/ckirti-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me  
+🎓 Final Year Computer Engineering Student at SNJB College, Chandwad.  
+📍 Based in Pune, India.  
+💡 Passionate about Data Science, Machine Learning, and Business Intelligence.  
+📊 Data Analyst in the making | Exploring Data-Driven Decision Making.  
 
-Here are some ideas to get you started:
+## 🛠 Skills & Tools  
+- **Programming:** Python 🐍 | SQL  
+- **Data Science:** Pandas | NumPy | Matplotlib | Seaborn  
+- **Data Visualization:** Power BI | Tableau (Learning)  
+- **Machine Learning:** K-Means Clustering, PCA, Data Preprocessing  
+- **Other Tools:** Git & GitHub, Excel  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Projects  
+- [🏏 IPL Data Analysis] – A creative storytelling-based analysis of IPL matches.  
+- [🏦 Customer Segmentation for Banks] – Using K-Means clustering to segment customers.  
+
+## 📫 Connect with Me  
+- LinkedIn: [Kirti Chaudhari]((https://www.linkedin.com/in/kirti-chaudhari-05a327357/))  
+- GitHub: [ckirti-git]((https://github.com/ckirti-git))  
+
+💡 _"Turning data into insights, one analysis at a time!"_  
+
+---
+🔍 *Looking for Data Analyst opportunities!*  
