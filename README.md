@@ -18,8 +18,8 @@
 - [🏦 Customer Segmentation for Banks] – Using K-Means clustering to segment customers.  
 
 ## 📫 Connect with Me  
-- LinkedIn: [Kirti Chaudhari]((https://www.linkedin.com/in/kirti-chaudhari-05a327357/))  
-- GitHub: [ckirti-git]((https://github.com/ckirti-git))  
+- LinkedIn: [Kirti Chaudhari](https://www.linkedin.com/in/kirti-chaudhari-05a327357/)
+- GitHub: [ckirti-git](https://github.com/ckirti-git)
 
 💡 _"Turning data into insights, one analysis at a time!"_  
 
