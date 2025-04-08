@@ -15,11 +15,12 @@
 
 ## 🔥 Projects  
 - [🏏 IPL Data Analysis] – A creative storytelling-based analysis of IPL matches.  
-- [🏦 Customer Segmentation for Banks] – Using K-Means clustering to segment customers.  
+- [🏦 Customer Segmentation for Banks] – Using K-Means and DBSCAN for clustering to segment customers.  
 
 ## 📫 Connect with Me  
 - LinkedIn: [Kirti Chaudhari](https://www.linkedin.com/in/kirti-chaudhari-05a327357/)
 - GitHub: [ckirti-git](https://github.com/ckirti-git)
+- Tableau Portfolio: [ckirti-git](https://github.com/ckirti-git)
 
 💡 _"Turning data into insights, one analysis at a time!"_  
 
