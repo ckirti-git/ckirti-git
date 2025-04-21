@@ -21,7 +21,6 @@
 - LinkedIn: [Kirti Chaudhari](https://www.linkedin.com/in/kirti-chaudhari-05a327357/)
 - GitHub: [ckirti-git](https://github.com/ckirti-git)
 - Tableau Portfolio: [Kirti Chaudhari](https://public.tableau.com/app/profile/kirti.chaudhari1270/vizzes)
-- [Link](https://chatgpt.com/share/67f7f670-2834-8011-930d-ff1b806007ff)
 
 💡 _"Turning data into insights, one analysis at a time!"_  
 
